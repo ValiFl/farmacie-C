@@ -6,6 +6,10 @@ struct medicament {
 	char nume[30];
 	float pret;
 	int cod;
+  char github[100]
+  int merge;
+  int branch;
+  float pullrequest;
 };
 
 int main() {
